@@ -1,5 +1,3 @@
-# Test-Computing
-#Changing a file
 Changing a file in Terminal 
 Steps:
 1) ls
